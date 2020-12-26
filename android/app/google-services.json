@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984784196659",
+    "project_id": "my-private-photo-album",
+    "storage_bucket": "my-private-photo-album.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984784196659:android:b5409d29239ab3139f7f46",
+        "android_client_info": {
+          "package_name": "com.lab7.my_private_photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984784196659-illo8v2amkqjlbpmne7jgno2rvha96ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJn8Dq6qo_dCOI9T-teD9BPOP7hTC6dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984784196659-illo8v2amkqjlbpmne7jgno2rvha96ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
